@@ -51,7 +51,7 @@ const Home = () => {
   }, []);
 
   return (
-    <div className="home text-white  text-center d-flex justify-content-center">
+    <div className="home text-black  text-center d-flex justify-content-center">
       <div className="list p-5 border border-success bg-light d-flex flex-column m-4 w-50">
         <Header />
         <Dugme visible={showAddTask} onShow={showClose} />

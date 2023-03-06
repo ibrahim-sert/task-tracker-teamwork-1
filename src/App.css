@@ -10,11 +10,14 @@ body{
 }
 
 .home{
-  background-color:#236765;
+  background-color: #236765;
+background-image: linear-gradient(180deg, #236765 0%, #344a4f 100%);
+
 }
 
 .list.p-5{
-  background-color:  #344A4F !important;
+  background-color: #236765;
+background-image: linear-gradient(180deg, #236765 0%, #a2d5ac 100%) !important;
 }
 
 .container{
@@ -23,5 +26,5 @@ body{
 }
 
 .w-100 h5{
-  color: #A2D5AC;
+  color: red
 }
