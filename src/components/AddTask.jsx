@@ -24,7 +24,7 @@ const AddTask = ({handleSubmit, handleChange}) => {
           />
         </div>
 
-        <button type="submit" className="btn btn-success mt-3 w-100">
+        <button type="submit" className="btn btn-success mt-3 w-50">
           Save Task
         </button>
       </form>
